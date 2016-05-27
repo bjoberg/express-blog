@@ -4,6 +4,8 @@
 
 This application was built using [Express.js](http://expressjs.com/), and [Jade](http://jade-lang.com/). Development was based off of a Treehouse tutorial - [Express Basics](https://teamtreehouse.com/library/express-basics).
 
+**Live demo**: [https://brettoberg-express-blog.herokuapp.com/blog](https://brettoberg-express-blog.herokuapp.com/blog)
+
 ## How to locally run this application:
 1. Download, clone, or fork this application
   * https://github.com/bjoberg/express-blog.git
