@@ -40,6 +40,8 @@ app.get('/posts', function(req, res) {
   }
 });
 
-app.listen(3000, function() {
-  console.log('The frontend server is running on port 3000!');
+app.set('port', process.env.PORT || 3000);
+
+var server = app.listen(app.get('port'), function() {
+  console.log('Express server listening on port ' + server.address().port);
 });
