@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/bjoberg/express-blog/blob/master/images/homepage.png "Main screenshot")
 
-This application was built using [Express.js](http://expressjs.com/). Development was based off of a Treehouse tutorial - [Express Basics](https://teamtreehouse.com/library/express-basics).
+This application was built using [Express.js](http://expressjs.com/), and [Jade](http://jade-lang.com/). Development was based off of a Treehouse tutorial - [Express Basics](https://teamtreehouse.com/library/express-basics).
 
 ## How to locally run this application:
 1. Download, clone, or fork this application
