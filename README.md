@@ -1,25 +1,21 @@
-# Express-blog
+# Express Blog
 
-![alt text](https://github.com/bjoberg/express-blog/blob/master/images/homepage.png "Main screenshot")
+Express Basics tutorial written by the Treehouse team
 
-This application was built using [Express.js](http://expressjs.com/), and [Jade](http://jade-lang.com/). Development was based off of a Treehouse tutorial - [Express Basics](https://teamtreehouse.com/library/express-basics).
+**Demo**: [https://brettoberg-express-blog.herokuapp.com](https://brettoberg-express-blog.herokuapp.com)
 
-**Live demo**: [https://brettoberg-express-blog.herokuapp.com](https://brettoberg-express-blog.herokuapp.com)
+## Installation
+1. Install node.js (v5.x.x)
+2. Install npm (v3.x.x)
+3. Clone this repository
+4. Within your command line, navigate to your local project directory and run **`npm install`**
+5. Run **`node src/app.js`**
+6. In your web browser navigate to [http://localhost:3000/](http://localhost:3000/)
 
-## How to locally run this application:
-1. Download, clone, or fork this application
-  * https://github.com/bjoberg/express-blog.git
+## Credits
 
-2. Make sure you have [node.js](https://nodejs.org/en/download/), [jade](https://www.npmjs.com/package/jade), [npm](https://www.npmjs.com/), and [express.js](http://expressjs.com/) globally installed on your computer.
+Treehouse tutorial - [Express Basics](https://teamtreehouse.com/library/express-basics).
 
-3. In the terminal, navigate into the project directory, and run the following command:
+## License
 
-  ```bash
-  node src/app.js
-  ```
-4. Once completed, you should see the following output:
-
-  ```bash
-  The server is running on port 3000!
-  ```
-5. In your web browser navigate to [http://localhost:3000/](http://localhost:3000/)
+MIT
